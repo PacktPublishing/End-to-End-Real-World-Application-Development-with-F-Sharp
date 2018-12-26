@@ -1,0 +1,27 @@
+storage none
+framework netstandard2.0
+source https://api.nuget.org/v3/index.json
+nuget Fable.Elmish.React
+nuget Fable.Elmish.Debugger
+nuget Fable.Elmish
+nuget Fable.Elmish.Browser
+nuget Fable.Elmish.HMR
+nuget Fable.PowerPack
+nuget Fable.React
+clitool dotnet-fable
+
+// [ FAKE GROUP ]
+group Build
+    storage none
+    framework netstandard2.0
+    source https://api.nuget.org/v3/index.json
+
+    nuget Fake.DotNet.Cli
+    nuget Fake.IO.FileSystem
+    nuget Fake.Core.Target 
+    nuget Fake.DotNet.Paket
+    nuget Fake.Core.Process
+    nuget Fake.Core.String
+    nuget Fake.JavaScript.Yarn
+    clitool dotnet-fake
+

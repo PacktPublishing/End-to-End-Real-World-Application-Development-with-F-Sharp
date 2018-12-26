@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="ReactErrorBoundaries.fs" />
+    <Compile Include="Pages.fs" />
+    <Compile Include="TimeUtil.fs" />
+    <Compile Include="FastestTime.fs" />
+    <Compile Include="Home.fs" />
+    <Compile Include="Main.fs" />
+    <Compile Include="App.fs" />
+  </ItemGroup>
+  <Import Project="..\..\.paket\Paket.Restore.targets" />
+</Project>

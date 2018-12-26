@@ -1,0 +1,6 @@
+Giraffe
+Microsoft.AspNetCore
+Microsoft.AspNetCore.Hosting
+Microsoft.AspNetCore.Server.Kestrel
+Microsoft.AspNetCore.StaticFiles
+Akkling
