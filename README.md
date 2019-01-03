@@ -20,8 +20,15 @@ End-to-End Real-World Application Development with F# will guide you to develop 
 To fully benefit from the coverage included in this course, you will need:<br/>
 The course will help anyone, from beginning- to advanced-level, to make powerful applications. Experienced learners can delve straight into the topic of their choice. A little prior knowledge of F# will help you better understand the topics.	
 ### Technical Requirements
-This course has the following software requirements:<br/>
-Code Editor
+This course has the following software requirements:
+●	An editor like Visual Studio Code
+●	.NET Core
+●	Yarn
+This course has been tested on the following system configuration:
+●	OS: Windows 10
+●	Memory: 12GB
+●	Hard Disk Space: 200 GB
+●	Video Card: 1GB Video Memory
 
 ## Related Products
 * [Learning Functional Programming with F# [Integrated Course]](https://www.packtpub.com/web-development/learning-functional-programming-f-integrated-course?utm_source=github&utm_medium=repository&utm_campaign=9781788477840)
