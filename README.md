@@ -1,3 +1,15 @@
+**Update:** Many things have changed since the publish. I have added some working version of the TypingSpeed to
+Typing_Speed_Updated folder. To run it just clone this repo. And go to Elmish or NonElmish folders and run
+
+**yarn install**
+
+**yarn start**
+ 
+and then visit http://localhost:8080
+
+assuming you have Yarn and .NET Core SDK 3.x installed.
+
+
 # End-to-End Real-World Application Development with F# [Integrated Course]
 This is the code repository for [End-to-End Real-World Application Development with F# [Integrated Course]](https://www.packtpub.com/web-development/end-end-real-world-application-development-f-integrated-course?utm_source=github&utm_medium=repository&utm_campaign=9781788478748), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
