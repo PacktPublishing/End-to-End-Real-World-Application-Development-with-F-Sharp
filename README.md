@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 **Update:** Many things have changed since the publish. I have added some working version of the TypingSpeed to
 Typing_Speed_Updated folder. To run it just clone this repo. And go to Elmish or NonElmish folders and run
 
